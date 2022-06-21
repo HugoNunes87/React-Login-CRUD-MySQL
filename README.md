@@ -20,7 +20,7 @@ Projeto com tela de login,cadastro e CRUD podendo adicionar novos itens, edita-l
   
  ### ✅ Demonstração
  <p align="center">
-  <img src="Client/src/Assets/to_redme/Login-CRUD.gif"> 
+  <img src="Client/src/Assets/to_readme/Login-CRUD.gif"> 
 </p>
 
 
@@ -34,7 +34,7 @@ instalado [MySQl::Workbench](https://www.mysql.com/products/workbench/).
 
 ### 🔧 Configurando Banco de Dados
  <p align="center">
-  <img src="Client/src/Assets/to_redme/banco.gif" >
+  <img src="Client/src/Assets/to_readme/banco.gif" >
 </p>
 
 
